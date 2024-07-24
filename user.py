@@ -2,8 +2,6 @@ import csv
 import sqlite3
  
 
-#git config --global user.name "prinsha khadka"
-#git config --global user.email "prinshakhadka36@gmail.com"
 
 def create_connection():
     try:
